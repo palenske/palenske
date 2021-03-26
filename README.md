@@ -6,9 +6,10 @@
 
 I like music :guitar:  
 I like nature :herb:  
+I like skateboard :skateboard:  
 I like games :video_game:  
 
-Have a great day! ever! :grin:  
+Have a great day! :grin:  
 
 <!---
 palenske/palenske is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
