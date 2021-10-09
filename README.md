@@ -10,12 +10,10 @@
       </a></li>
   </ul>
 </p>
-
 <hr>
-
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=palenske&theme=onedark&show_icons=true&hide=stars&custom_title=Palenske's%20GitHub%20Stats" alt="Vinicius-Palenske"/>  
-</div> 
+</div>
 <br>
 <div>
   <h2>Workflow</h2>
@@ -26,12 +24,9 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
 </div>
 <br>
-<br>
 <hr>
-
 <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palenske&theme=onedark" widht="350px"/>
-  
   <h2>Technologies</h2>
   <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -57,4 +52,3 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   </div>
 </div>
-
