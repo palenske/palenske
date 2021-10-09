@@ -4,8 +4,8 @@
     <li>👀 I'm interested in pursuing a career as a full-stack developer</li>
     <li>🌱 I'm learning to work with technology at <a href="https://www.betrybe.com/">Trybe</a></li>
     <li>💞️ I'm looking to collaborate in the integration between technology and knowledge for people</li>
-    <li>📫 How to reach me: <a href="https://www.linkedin.com/in/vini-palenske/" style="text-decoration: none" target="_blank">
-      <img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a href="https://mail.google.com/mail/?view=cm&fs=1&to=viniciuspalenske@gmail.com" style="text-decoration: none" target="_blank">
+    <li>📫 How to reach me: <a href="https://www.linkedin.com/in/vini-palenske/" target="_blank">
+      <img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a href="https://mail.google.com/mail/?view=cm&fs=1&to=viniciuspalenske@gmail.com" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
       </a></li>
   </ul>
