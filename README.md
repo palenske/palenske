@@ -1,5 +1,3 @@
-[!https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white](https://www.linkedin.com/in/vini-palenske/){:target="_blank"}
-
 <div>
   <a href="#"><img align="right" src="https://c.tenor.com/cdgu_rxP5vwAAAAd/cat-hiss.gif" height="200px" width="180px"/></a>
   <p align="left">
@@ -8,13 +6,16 @@
       <li>👀 I'm interested in pursuing a career as a full-stack developer</li>
       <li>🌱 I'm learning to work with technology at <a href="https://www.betrybe.com/">Trybe</a></li>
       <li>💞️ I'm looking to collaborate in the integration between technology and knowledge for people</li>
-      <li>📫 How to reach me<br><a href="https://www.linkedin.com/in/vini-palenske/" target="_blank">
-        <img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a><a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&to=viniciuspalenske@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a></li>
+      <li>📫 How to reach me ~></li>
     </ul>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/vini-palenske/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=viniciuspalenske@gmail.com" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  </div>
   </p>
 </div>
-<br>
 <hr>
 <div>
   <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api?username=palenske&theme=onedark&show_icons=true&hide=stars&custom_title=Palenske's%20GitHub%20Stats" alt="Vinicius-Palenske"/></a>
