@@ -1,4 +1,4 @@
-[https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white](https://www.linkedin.com/in/vini-palenske/){:target="_blank"}
+[!https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white](https://www.linkedin.com/in/vini-palenske/){:target="_blank"}
 
 <div>
   <a href="#"><img align="right" src="https://c.tenor.com/cdgu_rxP5vwAAAAd/cat-hiss.gif" height="200px" width="180px"/></a>
