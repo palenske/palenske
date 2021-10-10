@@ -1,5 +1,5 @@
 <div>
-  <img align="right" src="https://c.tenor.com/cdgu_rxP5vwAAAAd/cat-hiss.gif" height="200px" width="180px"/>
+  <img align="right" href="#" src="https://c.tenor.com/cdgu_rxP5vwAAAAd/cat-hiss.gif" height="200px" width="180px"/>
   <p align="left">
     👋 Hi! My name is Vinicius Palenske and I'm a <b>front-end</b> and <b>back-end</b> developer.
     <ul>
@@ -18,7 +18,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=palenske&theme=onedark&show_icons=true&hide=stars&custom_title=Palenske's%20GitHub%20Stats" alt="Vinicius-Palenske"/>  
   <div align="center">
     <h2>Workspace</h2>
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+    <img href="#" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
     <img src="https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white"/>
     <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
