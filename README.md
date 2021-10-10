@@ -33,8 +33,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palenske&theme=onedark" widht="350px"/>
   <h2>Skills & Technologies</h2>
   <div>
-    <img src="https://img.shields.io/badge/Bash-A42E2B?style=for-the-badge&logo=gnu-bash&logoColor=white">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Bash-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F34F29?style=for-the-badge&logo=git&logoColor=white">
   </div>
   <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
