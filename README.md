@@ -1,5 +1,5 @@
 <div>
-  <img align="right" href="#" src="https://c.tenor.com/cdgu_rxP5vwAAAAd/cat-hiss.gif" height="200px" width="180px"/>
+  <a href="#"><img align="right" src="https://c.tenor.com/cdgu_rxP5vwAAAAd/cat-hiss.gif" height="200px" width="180px"/></a>
   <p align="left">
     👋 Hi! My name is Vinicius Palenske and I'm a <b>front-end</b> and <b>back-end</b> developer.
     <ul>
