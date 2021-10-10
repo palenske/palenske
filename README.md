@@ -11,9 +11,7 @@
   </ul>
 </p>
 <hr>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=palenske&theme=onedark&show_icons=true&hide=stars&custom_title=Palenske's%20GitHub%20Stats" alt="Vinicius-Palenske"/>  
-</div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=palenske&theme=onedark&show_icons=true&hide=stars&custom_title=Palenske's%20GitHub%20Stats" alt="Vinicius-Palenske"/>  
 
 <div align="center">
   <h2>Workspace</h2>
@@ -50,8 +48,6 @@
     <div>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-    </div>
-    <div>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
     </div>
