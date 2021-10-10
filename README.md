@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
 </div>
 <br>
-<br>
 <hr>
 <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palenske&theme=onedark" widht="350px"/>
