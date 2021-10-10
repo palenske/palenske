@@ -1,7 +1,7 @@
 <div>
   <a href="#"><img align="right" src="https://c.tenor.com/cdgu_rxP5vwAAAAd/cat-hiss.gif" height="200px" width="180px"/></a>
   <p align="left">
-    <h3>👋 Hi! My name is Vinicius Palenske and I'm a <b>front-end</b> and <b>back-end</b> developer.</h3>
+    👋 Hi! My name is Vinicius Palenske and I'm a <b>front-end</b> and <b>back-end</b> developer.
     <ul>
       <li>👀 I'm interested in pursuing a career as a full-stack developer</li>
       <li>🌱 I'm learning to work with technology at <a href="https://www.betrybe.com/">Trybe</a></li>
