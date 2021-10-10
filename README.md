@@ -12,8 +12,8 @@
     </ul>
   </p>
 </div>
-<br>
 <hr>
+<br>
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=palenske&theme=onedark&show_icons=true&hide=stars&custom_title=Palenske's%20GitHub%20Stats" alt="Vinicius-Palenske"/>  
   <div align="center">
@@ -27,9 +27,8 @@
     <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
   </div>
 </div>
-<br>
-<br>
 <hr>
+<br>
 <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palenske&theme=onedark" widht="350px"/>
   <div align="center">
