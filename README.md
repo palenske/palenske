@@ -62,4 +62,4 @@
   </div>
 </div>
 <hr>
-<img align="center" src="https://static.wikia.nocookie.net/irmaodojorel/images/8/8b/Fullimage_juju.png/revision/latest/scale-to-width-down/200?cb=20190228134134&path-prefix=pt-br"/>
+<a href="https://irmaodojorel.fandom.com/pt-br/wiki/Vov%C3%B3_Juju"><img align="center" src="https://static.wikia.nocookie.net/irmaodojorel/images/8/8b/Fullimage_juju.png/revision/latest/scale-to-width-down/200?cb=20190228134134&path-prefix=pt-br"/></a>
