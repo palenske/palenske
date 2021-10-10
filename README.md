@@ -33,7 +33,7 @@
 <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palenske&theme=onedark" widht="350px"/>
   <h2>Skills & Technologies</h2>
-  <div>
+  <div align="center">
     <img src="https://img.shields.io/badge/Bash-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F34F29?style=for-the-badge&logo=git&logoColor=white">
   </div>
@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
     <img src="https://img.shields.io/badge/RTL-1A2C34?style=for-the-badge&amp;logo=testing-library&amp;logoColor=E33332">
   </div>
-  <div>
+  <div align="center">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
