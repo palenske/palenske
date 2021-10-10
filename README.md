@@ -12,7 +12,7 @@
 </p>
 <hr>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=palenske&theme=onedark&show_icons=true&hide=stars&custom_title=Palenske's%20GitHub%20Stats" alt="Vinicius-Palenske"/>  
-
+<br>
 <div align="center">
   <h2>Workspace</h2>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
@@ -23,8 +23,8 @@
   <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
 </div>
-<hr>
 <br>
+<hr>
 <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palenske&theme=onedark" widht="350px"/>
   <div align="center">
