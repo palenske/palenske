@@ -1,4 +1,4 @@
-<img align="right" src="https://c.tenor.com/cdgu_rxP5vwAAAAd/cat-hiss.gif" height="180px" width="200px"/>
+<img align="right" src="https://c.tenor.com/cdgu_rxP5vwAAAAd/cat-hiss.gif" height="210px" width="200px"/>
 <p>
   👋 Hi! My name is Vinicius Palenske and I'm a <b>front-end</b> and <b>back-end</b> developer.
   <ul>
