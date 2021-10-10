@@ -11,7 +11,6 @@
   </ul>
 </p>
 <hr>
-<br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=palenske&theme=onedark&show_icons=true&hide=stars&custom_title=Palenske's%20GitHub%20Stats" alt="Vinicius-Palenske"/>  
 <div align="center">
   <h2>Workspace</h2>
