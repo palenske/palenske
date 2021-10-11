@@ -19,7 +19,7 @@
 </div>
 <hr>
 <div>
-  <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api?username=palenske&theme=onedark&show_icons=true&hide=stars&custom_title=Palenske's%20GitHub%20Stats" alt="Vinicius-Palenske"/></a>
+  <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api?username=palenske&theme=onedark&show_icons=true&hide=stars&custom_title=Palenske's%20GitHub%20Stats" alt="Vinicius-Palenske-Stats" width="fit-content"/></a>
   <div align="center">
     <h2>Workspace</h2>
     <a href="#"><img href="#" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
@@ -34,7 +34,7 @@
 <br>
 <hr>
 <div>
-  <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palenske&theme=onedark"/></a>
+  <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palenske&theme=onedark" width="fit-content" alt="language-most-used"/></a>
   <div align="center">
     <h2>Skills & Technologies</h2>
     <div>
