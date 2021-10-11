@@ -34,7 +34,7 @@
 <br>
 <hr>
 <div>
-  <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palenske&theme=onedark" widht="350px"/></a>
+  <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palenske&theme=onedark"/></a>
   <div align="center">
     <h2>Skills & Technologies</h2>
     <div>
