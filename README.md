@@ -18,7 +18,7 @@
   </p>
 </div>
 <hr>
-<div>
+<div width="fit-content">
   <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api?username=palenske&theme=onedark&show_icons=true&hide=stars&custom_title=Palenske's%20GitHub%20Stats" alt="Vinicius-Palenske-Stats" width="fit-content"/></a>
   <div align="center">
     <h2>Workspace</h2>
@@ -33,7 +33,7 @@
 </div>
 <br>
 <hr>
-<div>
+<div width="fit-content">
   <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palenske&theme=onedark" width="fit-content" alt="language-most-used"/></a>
   <div align="center">
     <h2>Skills & Technologies</h2>
