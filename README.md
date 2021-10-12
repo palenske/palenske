@@ -8,9 +8,9 @@
       <li>📫 How to reach me:
          <span>
           <a href="https://www.linkedin.com/in/vini-palenske/" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+            <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
           <a href="https://mail.google.com/mail/?view=cm&fs=1&to=viniciuspalenske@gmail.com" target="_blank">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+            <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
          </span>
         </li>
       <br>
@@ -34,7 +34,7 @@
 <br>
 <hr>
 <div width="fit-content">
-  <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palenske&theme=onedark" width="fit-content" alt="language-most-used"/></a>
+  <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palenske&theme=onedark&show_icons=true&locale=en" width="fit-content" alt="language-most-used"/></a>
   <div align="center">
     <h2>Skills & Technologies</h2>
     <div>
