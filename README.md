@@ -1,7 +1,7 @@
-<div>
+<div align="center">
   <p>
     👋 Hi! My name is Vinicius Palenske and I'm a <b>front-end</b> and <b>back-end</b> developer.
-    <ul>
+    <ul align="left">
       <li>👀 I'm interested in pursuing a career as a full-stack developer</li>
       <li>🌱 I'm learning to work with technology at <a href="https://www.betrybe.com/">Trybe</a></li>
       <li>💞️ I'm looking to collaborate in the integration between technology and knowledge for people</li>
