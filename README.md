@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    👋 Hi! My name is Vinicius Palenske and I'm a <b>front-end</b> and <b>back-end</b> developer.
+    <h2>👋 Hi! My name is Vinicius Palenske and I'm a <b>front-end</b> and <b>back-end</b> developer.</h2>
     <ul align="left">
       <li>👀 I'm interested in pursuing a career as a full-stack developer</li>
       <li>🌱 I'm learning to work with technology at <a href="https://www.betrybe.com/">Trybe</a></li>
