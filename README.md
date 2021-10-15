@@ -13,6 +13,10 @@
             <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
          </span>
         </li>
+      <li>:computer: Recent activities ~> <span>
+          <a href="https://github.com/palenske/trybe-exercises" target="_blank">
+            <img align="center" src="https://img.shields.io/badge/Github-000000?style=flat&logo=github&logoColor=white"/></a>
+         </span></li>
       <br>
     </ul>
   </p>
