@@ -1,11 +1,11 @@
 <div align="center">
   <p>
-    <h2>👋 Hi! My name is Vinicius Palenske and I'm a <em>front-end</em> and <em>back-end</em> developer.</h2>
+    <h2>👋 Oi! Meu nome é Vinicius Palenske e sou um desenvolvedor <em>front-end</em> e <em>back-end</em>.</h2>
     <ul align="left">
-      <li>👀 I'm interested in pursuing a career as a full-stack developer</li>
-      <li>🌱 I'm learning to work with technology at <a href="https://www.betrybe.com/">Trybe</a></li>
-      <li>💞️ I'm looking to collaborate in the integration between technology and knowledge for people</li>
-      <li>📫 How to reach me:
+      <li>👀 Estou interessado em seguir a carreira de desenvolvedor full-stack</li>
+      <li>🌱 Estou aprendendo a trabalhar com tecnologia na <a href="https://www.betrybe.com/">Trybe</a></li>
+      <li>💞️ Procuro colaborar na integração entre tecnologia e conhecimento para as pessoas</li>
+      <li>📫 Contato:
          <span>
           <a href="https://www.linkedin.com/in/vini-palenske/" target="_blank">
             <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -13,7 +13,7 @@
             <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
          </span>
         </li>
-      <li>:computer: Recent activities ~> <span>
+      <li>:computer: Atividades recentes ~> <span>
           <a href="https://github.com/palenske/trybe-exercises" target="_blank">
             <img align="center" src="https://img.shields.io/badge/Github-000000?style=flat&logo=github&logoColor=white"/></a>
          </span></li>
@@ -23,9 +23,9 @@
 </div>
 <hr>
 <div width="fit-content">
-  <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api?username=palenske&theme=onedark&show_icons=true&hide=stars&custom_title=Palenske's%20GitHub%20Stats" alt="Vinicius-Palenske-Stats" width="fit-content"/></a>
+  <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api?username=palenske&theme=onedark&show_icons=true&hide=stars&custom_title=Minhas%20estatísticas%20no%20GitHub%20" alt="Vinicius-Palenske-Stats" width="fit-content"/></a>
   <div align="center">
-    <h2>Workspace</h2>
+    <h2>Ambiente de trabalho</h2>
     <a href="#"><img href="#" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/></a>
@@ -38,9 +38,9 @@
 <br>
 <hr>
 <div>
-  <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palenske&theme=onedark&show_icons=true&locale=en" alt="language-most-used"/></a>
+  <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palenske&theme=onedark&custom_title=Linguagens%20mais%20usadas&show_icons=true&locale=en" alt="language-most-used"/></a>
   <div align="center">
-    <h2>Skills & Technologies</h2>
+    <h2>Habilidades e Tecnologias</h2>
     <div>
       <a href="#"><img src="https://img.shields.io/badge/Bash-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
       <a href="#"><img src="https://img.shields.io/badge/Git-F34F29?style=for-the-badge&logo=git&logoColor=white"></a>
