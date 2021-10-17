@@ -41,7 +41,7 @@
 <br>
 <hr>
 <div align="center">
-  <a href="#">
+  <a align="center" href="#">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palenske&theme=onedark&custom_title=Linguagens%20mais%20usadas&show_icons=true&locale=en" alt="language-most-used"/></a>
   <div align="left">
     <div align="center">
