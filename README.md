@@ -24,15 +24,17 @@
 <hr>
 <div width="fit-content">
   <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api?username=palenske&theme=onedark&show_icons=true&hide=stars&custom_title=Minhas%20estatísticas%20no%20GitHub%20" alt="Vinicius-Palenske-Stats" width="fit-content"/></a>
-  <div align="center">
-    <h2>Ambiente de trabalho</h2>
-    <a href="#"><img href="#" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/></a>
+  <div align="right">
+    <div align="center">
+      <h2>Ambiente de trabalho</h2>
+      <a href="#"><img href="#" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/></a>
+    </div>
   </div>
 </div>
 <br>
