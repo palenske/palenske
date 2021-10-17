@@ -6,24 +6,25 @@
       <li>🌱 Estou aprendendo a trabalhar com tecnologia na <a href="https://www.betrybe.com/">Trybe</a></li>
       <li>💞️ Procuro colaborar na integração entre tecnologia e conhecimento para as pessoas</li>
       <li>📫 Contato:
-         <span>
+        <span>
           <a href="https://www.linkedin.com/in/vini-palenske/" target="_blank">
             <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
           <a href="https://mail.google.com/mail/?view=cm&fs=1&to=viniciuspalenske@gmail.com" target="_blank">
             <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-         </span>
+        </span>
         </li>
       <li>:computer: Atividades recentes ~> <span>
           <a href="https://github.com/palenske/trybe-exercises" target="_blank">
             <img align="center" src="https://img.shields.io/badge/Github-000000?style=flat&logo=github&logoColor=white"/></a>
-         </span></li>
+        </span></li>
       <br>
     </ul>
   </p>
 </div>
 <hr>
-<div width="fit-content">
-  <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api?username=palenske&theme=onedark&show_icons=true&hide=stars&custom_title=Minhas%20estatísticas%20no%20GitHub%20" alt="Vinicius-Palenske-Stats" width="fit-content"/></a>
+<div align="center">
+  <a href="#">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=palenske&theme=onedark&show_icons=true&hide=stars&custom_title=Minhas%20estatísticas%20no%20GitHub%20" alt="Vinicius-Palenske-Stats"/></a>
   <div align="right">
     <div align="center">
       <h2>Ambiente de trabalho</h2>
@@ -39,8 +40,9 @@
 </div>
 <br>
 <hr>
-<div width="fit-content">
-  <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palenske&theme=onedark&custom_title=Linguagens%20mais%20usadas&show_icons=true&locale=en" alt="language-most-used"/></a>
+<div align="center">
+  <a href="#">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palenske&theme=onedark&custom_title=Linguagens%20mais%20usadas&show_icons=true&locale=en" alt="language-most-used"/></a>
   <div align="left">
     <div align="center">
       <h2>Habilidades e Tecnologias</h2>
