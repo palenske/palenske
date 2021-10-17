@@ -39,31 +39,33 @@
 </div>
 <br>
 <hr>
-<div>
+<div width="fit-content">
   <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palenske&theme=onedark&custom_title=Linguagens%20mais%20usadas&show_icons=true&locale=en" alt="language-most-used"/></a>
-  <div align="center">
-    <h2>Habilidades e Tecnologias</h2>
-    <div>
-      <a href="#"><img src="https://img.shields.io/badge/Bash-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Git-F34F29?style=for-the-badge&logo=git&logoColor=white"></a>
-    </div>
-    <div>
-      <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
-    <div/>
-    <div>
-      <a href="#"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/RTL-1A2C34?style=for-the-badge&amp;logo=testing-library&amp;logoColor=E33332"></a>
-    </div>
-    <div>
-      <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+  <div align="left">
+    <div align="center">
+      <h2>Habilidades e Tecnologias</h2>
+      <div>
+        <a href="#"><img src="https://img.shields.io/badge/Bash-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+        <a href="#"><img src="https://img.shields.io/badge/Git-F34F29?style=for-the-badge&logo=git&logoColor=white"></a>
+      </div>
+      <div>
+        <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+      <div/>
+      <div>
+        <a href="#"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/RTL-1A2C34?style=for-the-badge&amp;logo=testing-library&amp;logoColor=E33332"></a>
+      </div>
+      <div>
+        <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+      </div>
     </div>
   </div>
 </div>
