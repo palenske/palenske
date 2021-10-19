@@ -13,10 +13,11 @@
             <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
         </span>
         </li>
-      <li>:computer: Atividades recentes ~> <span>
+      <li>💻 Atividades recentes ~> <span>
           <a href="https://github.com/palenske/trybe-exercises" target="_blank">
             <img align="center" src="https://img.shields.io/badge/Github-000000?style=flat&logo=github&logoColor=white"/></a>
         </span></li>
+      <li>📌 Não esqueça de conferir meus projetos na sessão "Pinned" logo abaixo ⏬</li>
         <br>
     </ul>
   </p>
