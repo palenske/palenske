@@ -17,7 +17,7 @@
           <a href="https://github.com/palenske/trybe-exercises" target="_blank">
             <img align="center" src="https://img.shields.io/badge/Github-000000?style=flat&logo=github&logoColor=white"/></a>
         </span></li>
-      <li>📌 Não esqueça de conferir meus projetos na sessão "Pinned" logo abaixo ⏬</li>
+      <li>📌 Não deixe de conferir meus projetos na sessão "Pinned" logo abaixo ⏬</li>
         <br>
     </ul>
   </p>
