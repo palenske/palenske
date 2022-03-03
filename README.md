@@ -13,7 +13,7 @@
             <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
         </span>
         </li>
-      <li><a href="https://github.com/palenske/Trybe" target="_blank"><img align="center" src="https://img.shields.io/badge/be-Trybe-green"/></a></li>
+      <li>📚 Atividades: <a href="https://github.com/palenske/Trybe" target="_blank"><img align="center" src="https://img.shields.io/badge/be-Trybe-green"/></a></li>
       <li>📌 Não deixe de conferir meus projetos na sessão "Pinned" logo abaixo ⏬</li>
         <br>
     </ul>
