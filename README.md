@@ -17,7 +17,8 @@
     </li>
     <li>📚 Atividades: <a href="https://github.com/palenske/Trybe" target="_blank"><img align="center"
           src="https://img.shields.io/badge/be-Trybe-2fc18c" /></a></li>
-    <li>📌 Não deixe de conferir meus projetos na sessão "Pinned" logo abaixo ⏬</li>
+    <br>
+    Não deixe de conferir meus projetos na sessão "Pinned" logo abaixo 📌⏬
     <br>
   </ul>
   </p>
