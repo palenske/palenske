@@ -42,7 +42,7 @@
       <a href="#"><img
           src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
       <a href="#"><img
-          src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /></a>
+          src="https://img.shields.io/badge/Google_chrome-black?style=for-the-badge&logo=Google-chrome&logoColor=white" /></a>
       <a href="#"><img
           src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /></a>
     </div>
