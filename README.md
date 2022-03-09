@@ -18,11 +18,13 @@
     <li>📚 Atividades: <a href="https://github.com/palenske/Trybe" target="_blank"><img align="center"
           src="https://img.shields.io/badge/be-Trybe-2fc18c" /></a></li>
     <br>
-    Não deixe de conferir meus projetos na sessão "Pinned" logo abaixo 📌⏬
-    <br>
+    Confira meus projetos na sessão <a href="#user-74431720-pinned-items-reorder-form">"Pinned"</a> logo abaixo 📌⏬
   </ul>
   </p>
 </div>
+
+> Cada badge na sessão <a href="#skills">Habilidades & Tecnologias</a> leva a um diretório onde eu uso determinada tecnologia.
+
 <hr>
 <div align="center">
   <a href="#">
@@ -58,7 +60,7 @@
       alt="language-most-used" /></a>
   <div align="left">
     <div align="center">
-      <h2>Habilidades e Tecnologias</h2>
+      <h2 id="skills">Habilidades e Tecnologias</h2>
       <div>
         <a href="https://pt.wikipedia.org/wiki/Bash"><img
             src="https://img.shields.io/badge/Bash-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
