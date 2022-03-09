@@ -51,8 +51,8 @@
     </div>
   </div>
 </div>
-<br>
-<hr id="skills" >
+<br id="skills">
+<hr>
 <div align="center">
   <a href="#">
     <img align="right"
