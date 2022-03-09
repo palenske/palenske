@@ -117,20 +117,27 @@
             <a href="https://github.com/palenske/Cookmaster/tree/main/src/integration-tests"><img
                 src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white"
                 target="_blank"></a>
-            <a href="#"><img
-                src="https://img.shields.io/badge/Sequelize-white?style=for-the-badge&logo=sequelize&logoColor=52B0E7"></a>
+            <a href="https://github.com/palenske/Trybe/tree/main/trybe-projects/3-back-end/blogs-api"><img
+                src="https://img.shields.io/badge/Sequelize-white?style=for-the-badge&logo=sequelize&logoColor=52B0E7"
+                target="_blank"></a>
           </div>
           <div>
-            <a href="#"><img
-                src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
-            <a href="#"><img
-                src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>
-            <a href="#"><img
-                src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
+            <a
+              href="https://github.com/palenske/Trybe/tree/main/trybe-exercises/3_Back-end_Development/bloco-26-nodejs-camada-de-servico-e-arquitetura-rest-e-restful/dia-2-arquitetura-de-software-camada-de-controller-e-service/exercise/cep-lookup"><img
+                src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+                target="_blank"></a>
+            <a
+              href="https://github.com/palenske/Trybe/tree/main/trybe-exercises/3_Back-end_Development/bloco-26-nodejs-camada-de-servico-e-arquitetura-rest-e-restful/dia-3-arquitetura-web-rest-e-restful/exercise/restfulzao"><img
+                src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
+                target="_blank"></a>
+            <a href="https://palenske-pd.herokuapp.com/"><img
+                src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
+                target="_blank"></a>
           </div>
           <div>
-            <a href="#"><img
-                src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"></a>
+            <a href="https://github.com/palenske/Trybe/tree/main/trybe-projects/4-computer-science/job-insights/src"><img
+                src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"
+                target="_blank"></a>
           </div>
         </div>
       </div>
