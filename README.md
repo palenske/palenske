@@ -90,6 +90,8 @@
           <a href="#"><img
               src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
           <a href="#"><img
+              src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" /></a>
+          <a href="#"><img
               src="https://img.shields.io/badge/Sequelize-white?style=for-the-badge&logo=sequelize&logoColor=52B0E7" /></a>
         </div>
         <div>
