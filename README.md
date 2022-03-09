@@ -60,36 +60,37 @@
     <div align="center">
       <h2>Habilidades e Tecnologias</h2>
       <div>
-        <a href="#"><img
+        <a href="https://pt.wikipedia.org/wiki/Bash"><img
             src="https://img.shields.io/badge/Bash-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
-        <a href="#"><img src="https://img.shields.io/badge/Git-F34F29?style=for-the-badge&logo=git&logoColor=white"></a>
+        <a href="#"><img
+            src="https://img.shields.io/badge/Git-F34F29?style=for-the-badge&logo=git&logoColor=white"></a>
       </div>
       <div>
-        <a href="#"><img
+        <a href="https://github.com/palenske/Trybe/blob/main/trybe-projects/2-front-end/pixels-art/index.html"><img
             src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-        <a href="#"><img
+        <a href="https://github.com/palenske/Trybe/blob/main/trybe-projects/2-front-end/starwars-planets-search/src/App.css"><img
             src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-        <a href="#"><img
+        <a href="https://github.com/palenske/Trybe/tree/main/trybe-projects/1-fundaments/zoo-functions/test"><img
             src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
-        <a href="#"><img
+        <a href="hhttps://github.com/palenske/Trybe/blob/main/trybe-projects/2-front-end/starwars-planets-search/src/App.js"><img
             src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" /></a>
         <div />
         <div>
-          <a href="#"><img
+          <a href="https://github.com/palenske/Trybe/blob/main/trybe-projects/2-front-end/trybewallet/src/App.js"><img
               src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /></a>
-          <a href="#"><img
+          <a href="https://github.com/palenske/Recipes-App/blob/main-group-17/src/App.js"><img
               src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /></a>
-          <a href="#"><img
+          <a href="https://jestjs.io/pt-BR/"><img
               src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /></a>
-          <a href="#"><img
+          <a href="https://github.com/palenske/Trybe/tree/main/trybe-projects/2-front-end/react-testing-library/src/tests"><img
               src="https://img.shields.io/badge/RTL-1A2C34?style=for-the-badge&amp;logo=testing-library&amp;logoColor=E33332"></a>
         </div>
         <div>
-          <a href="#"><img
+          <a href="https://github.com/palenske/Trybe/tree/main/trybe-projects/3-back-end/mysql-one-for-all"><img
               src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-          <a href="#"><img
+          <a href="https://github.com/palenske/Trybe/tree/main/trybe-projects/3-back-end/mongodb-aggregations/challenges"><img
               src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
-          <a href="#"><img
+          <a href="https://github.com/palenske/Cookmaster/tree/main/src/integration-tests"><img
               src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" /></a>
           <a href="#"><img
               src="https://img.shields.io/badge/Sequelize-white?style=for-the-badge&logo=sequelize&logoColor=52B0E7" /></a>
