@@ -52,7 +52,7 @@
   </div>
 </div>
 <br>
-<hr>
+<hr id="skills" >
 <div align="center">
   <a href="#">
     <img align="right"
@@ -60,7 +60,7 @@
       alt="language-most-used" /></a>
   <div align="left">
     <div align="center">
-      <h2 id="skills">Habilidades e Tecnologias</h2>
+      <h2>Habilidades e Tecnologias</h2>
       <div>
         <a href="https://pt.wikipedia.org/wiki/Bash"><img
             src="https://img.shields.io/badge/Bash-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
