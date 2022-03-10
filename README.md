@@ -61,7 +61,6 @@
     </div>
   </div>
 </div>
-
 <hr id="skills">
 <div align="center">
   <a href="#">
