@@ -30,7 +30,7 @@
   <a href="#">
     <img align="left"
       src="https://github-readme-stats.vercel.app/api?username=palenske&theme=onedark&show_icons=true&hide=stars&custom_title=Minhas%20estatísticas%20no%20GitHub%20"
-      alt="Vinicius-Palenske-Stats"></a>
+      alt="Vinicius-Palenske-Stats" width="fit-content"></a>
   <div align="right">
     <div align="center">
       <h2>Ambiente de trabalho</h2>
