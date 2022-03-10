@@ -55,6 +55,9 @@
       <a href="https://trello.com/"><img
           src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"
           target="_blank"></a>
+      <a href="https://open.spotify.com/playlist/0IzUOk12Q6xEfa43Mp9tyO"><img
+          src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
+          target="_blank"></a>
     </div>
   </div>
 </div>
