@@ -1,5 +1,4 @@
 <div align="center">
-  <p>
   <h2>👋 Oi! Meu nome é Vinicius Palenske e sou um desenvolvedor WEB <em>Full-Stack</em>.</h2>
   <ul align="left">
     <li>👀 Estou interessado em seguir a carreira de desenvolvedor</li>
@@ -21,7 +20,6 @@
     <li>📝 Projetos: <a href="#user-74431720-pinned-items-reorder-form" a><img align="center"
           src="https://img.shields.io/badge/📌-Projects-40197e" target="_blank"></a></li>
   </ul>
-  </p>
 </div>
 
 > Cada badge na sessão <a href="#skills">Habilidades & Tecnologias</a> leva a um diretório onde a respectiva tecnologia
@@ -90,56 +88,53 @@
         <a href="https://github.com/palenske/Trybe/blob/main/trybe-projects/2-front-end/starwars-planets-search/src"><img
             src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"
             target="_blank"></a>
-        <div>
-          <div>
-            <a href="https://github.com/palenske/Trybe/blob/main/trybe-projects/2-front-end/trybewallet/src"><img
-                src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
-                target="_blank"></a>
-            <a href="https://github.com/palenske/Recipes-App/blob/main-group-17/src"><img
-                src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"
-                target="_blank"></a>
-            <a href="https://jestjs.io/pt-BR/"><img
-                src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
-                target="_blank"></a>
-            <a
-              href="https://github.com/palenske/Trybe/tree/main/trybe-projects/2-front-end/react-testing-library/src/tests"><img
-                src="https://img.shields.io/badge/RTL-1A2C34?style=for-the-badge&amp;logo=testing-library&amp;logoColor=E33332"
-                target="_blank"></a>
-          </div>
-          <div>
-            <a href="https://github.com/palenske/Trybe/tree/main/trybe-projects/3-back-end/mysql-one-for-all"><img
-                src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
-                target="_blank"></a>
-            <a
-              href="https://github.com/palenske/Trybe/tree/main/trybe-projects/3-back-end/mongodb-aggregations/challenges"><img
-                src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
-                target="_blank"></a>
-            <a href="https://github.com/palenske/Cookmaster/tree/main/src/integration-tests"><img
-                src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white"
-                target="_blank"></a>
-            <a href="https://github.com/palenske/Trybe/tree/main/trybe-projects/3-back-end/blogs-api"><img
-                src="https://img.shields.io/badge/Sequelize-white?style=for-the-badge&logo=sequelize&logoColor=52B0E7"
-                target="_blank"></a>
-          </div>
-          <div>
-            <a
-              href="https://github.com/palenske/Trybe/tree/main/trybe-exercises/3_Back-end_Development/bloco-26-nodejs-camada-de-servico-e-arquitetura-rest-e-restful/dia-2-arquitetura-de-software-camada-de-controller-e-service/exercise/cep-lookup"><img
-                src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
-                target="_blank"></a>
-            <a
-              href="https://github.com/palenske/Trybe/tree/main/trybe-exercises/3_Back-end_Development/bloco-26-nodejs-camada-de-servico-e-arquitetura-rest-e-restful/dia-3-arquitetura-web-rest-e-restful/exercise/restfulzao"><img
-                src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
-                target="_blank"></a>
-            <a href="https://palenske-pd.herokuapp.com/"><img
-                src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
-                target="_blank"></a>
-          </div>
-          <div>
-            <a href="https://github.com/palenske/Trybe/tree/main/trybe-projects/4-computer-science/job-insights/src"><img
-                src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"
-                target="_blank"></a>
-          </div>
-        </div>
+      </div>
+      <div>
+        <a href="https://github.com/palenske/Trybe/blob/main/trybe-projects/2-front-end/trybewallet/src"><img
+            src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
+            target="_blank"></a>
+        <a href="https://github.com/palenske/Recipes-App/blob/main-group-17/src"><img
+            src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"
+            target="_blank"></a>
+        <a href="https://jestjs.io/pt-BR/"><img
+            src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
+            target="_blank"></a>
+        <a
+          href="https://github.com/palenske/Trybe/tree/main/trybe-projects/2-front-end/react-testing-library/src/tests"><img
+            src="https://img.shields.io/badge/RTL-1A2C34?style=for-the-badge&amp;logo=testing-library&amp;logoColor=E33332"
+            target="_blank"></a>
+      </div>
+      <div>
+        <a href="https://github.com/palenske/Trybe/tree/main/trybe-projects/3-back-end/mysql-one-for-all"><img
+            src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
+            target="_blank"></a>
+        <a href="https://github.com/palenske/Trybe/tree/main/trybe-projects/3-back-end/mongodb-aggregations/challenges"><img
+            src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+            target="_blank"></a>
+        <a href="https://github.com/palenske/Cookmaster/tree/main/src/integration-tests"><img
+            src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white"
+            target="_blank"></a>
+        <a href="https://github.com/palenske/Trybe/tree/main/trybe-projects/3-back-end/blogs-api"><img
+            src="https://img.shields.io/badge/Sequelize-white?style=for-the-badge&logo=sequelize&logoColor=52B0E7"
+            target="_blank"></a>
+      </div>
+      <div>
+        <a
+          href="https://github.com/palenske/Trybe/tree/main/trybe-exercises/3_Back-end_Development/bloco-26-nodejs-camada-de-servico-e-arquitetura-rest-e-restful/dia-2-arquitetura-de-software-camada-de-controller-e-service/exercise/cep-lookup"><img
+            src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+            target="_blank"></a>
+        <a
+          href="https://github.com/palenske/Trybe/tree/main/trybe-exercises/3_Back-end_Development/bloco-26-nodejs-camada-de-servico-e-arquitetura-rest-e-restful/dia-3-arquitetura-web-rest-e-restful/exercise/restfulzao"><img
+            src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
+            target="_blank"></a>
+        <a href="https://palenske-pd.herokuapp.com/"><img
+            src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
+            target="_blank"></a>
+      </div>
+      <div>
+        <a href="https://github.com/palenske/Trybe/tree/main/trybe-projects/4-computer-science/job-insights/src"><img
+            src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"
+            target="_blank"></a>
       </div>
     </div>
   </div>
