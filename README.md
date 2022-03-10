@@ -34,7 +34,7 @@
   <div align="right">
     <div align="center">
       <h2>Ambiente de trabalho</h2>
-      <a href="https://ubuntu.com/"><img href="#"
+      <a href="https://ubuntu.com/"><img
           src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
           target="_blank"></a>
       <a href="https://ohmyz.sh/"><img
