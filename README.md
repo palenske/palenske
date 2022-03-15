@@ -129,7 +129,7 @@
           href="https://github.com/palenske/Trybe/tree/main/trybe-exercises/3_Back-end_Development/bloco-26-nodejs-camada-de-servico-e-arquitetura-rest-e-restful/dia-3-arquitetura-web-rest-e-restful/exercise/restfulzao"><img
             src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
             target="_blank"></a>
-        <a href="https://palenske-pd.herokuapp.com/"><img
+        <a href="https://palenske-sw-planets-search.herokuapp.com/"><img
             src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
             target="_blank"></a>
       </div>
