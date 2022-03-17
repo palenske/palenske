@@ -65,7 +65,7 @@
 <div align="center">
   <a href="#">
     <img align="right"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=palenske&theme=onedark&custom_title=Linguagens%20mais%20usadas&show_icons=true&locale=en"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=palenske&layout=compact&theme=onedark&custom_title=Linguagens%20mais%20usadas&show_icons=true&locale=en"
       alt="language-most-used" target="_blank"></a>
   <div align="left">
     <div align="center">
