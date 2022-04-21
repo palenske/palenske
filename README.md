@@ -2,7 +2,7 @@
   <h2>👋 Oi! Meu nome é Vinicius Palenske e sou um desenvolvedor WEB <em>Full-Stack</em>.</h2>
   <ul align="left">
     <li>👀 Estou interessado em empresas/projetos que busquem impactar positivamente na sociedade</li>
-    <li>🌱 Estou aprendendo a trabalhar com tecnologia na <a href="https://www.betrybe.com/">Trybe</a></li>
+    <li>🌱 Atualmente estou aprendendo TypeScript e Docker
     <li>💞️ Procuro colaborar na integração entre tecnologia e conhecimento para as pessoas</li>
     <li>📫 Contato:
       <span>
