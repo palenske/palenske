@@ -3,7 +3,7 @@
   <ul align="left">
     <li>🛠️ Atuo com NestJS e NextJS para soluções Web.</li>
     <li>⚙️ Definições de projetos baseados em DDD e REST.</li>
-    <li>☁️ Vercel | AWS | Docker </li>
+    <li>☁️ Vercel | AWS | Docker. </li>
     <li>📫 Contato:
       <span>
         <a href="https://www.linkedin.com/in/vini-palenske/" target="_blank">
