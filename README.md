@@ -22,15 +22,9 @@
   </ul>
 </div>
 
-> Cada badge na sessão <a href="#skills">Habilidades & Tecnologias</a> leva a um diretório onde a respectiva tecnologia
-é usada.
 
 <hr>
 <div align="center">
-  <a href="#">
-    <img align="left"
-      src="https://github-readme-stats.vercel.app/api?username=palenske&theme=onedark&show_icons=true&hide=stars&custom_title=Minhas%20estatísticas%20no%20GitHub%20"
-      alt="Vinicius-Palenske-Stats"></a>
   <div align="right">
     <div align="center">
       <h2>Ambiente de trabalho</h2>
@@ -53,7 +47,7 @@
           src="https://img.shields.io/badge/Google_chrome-black?style=for-the-badge&logo=Google-chrome&logoColor=white"
           target="_blank"></a>
       <a href="https://trello.com/"><img
-          src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"
+          src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=trello&logoColor=white"
           target="_blank"></a>
       <a href="https://open.spotify.com/playlist/0IzUOk12Q6xEfa43Mp9tyO"><img
           src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
@@ -70,27 +64,6 @@
   <div align="left">
     <div align="center">
       <h2>Habilidades e Tecnologias</h2>
-      <div>
-        <a href="https://pt.wikipedia.org/wiki/Bash" target="_blank"><img
-            src="https://img.shields.io/badge/Bash-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white"
-            target="_blank"></a>
-        <a href="#"><img src="https://img.shields.io/badge/Git-F34F29?style=for-the-badge&logo=git&logoColor=white"></a>
-      </div>
-      <div>
-        <a href="https://github.com/palenske/Trybe/blob/main/trybe-projects/2-front-end/pixels-art/index.html"><img
-            src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-            target="_blank"></a>
-        <a
-          href="https://github.com/palenske/Trybe/blob/main/trybe-projects/2-front-end/starwars-planets-search/src/App.css"><img
-            src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-            target="_blank"></a>
-        <a href="https://github.com/palenske/Trybe/tree/main/trybe-projects/1-fundaments/zoo-functions/test"><img
-            src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-            target="_blank"></a>
-        <a href="https://github.com/palenske/Trybe/blob/main/trybe-projects/2-front-end/starwars-planets-search/src"><img
-            src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"
-            target="_blank"></a>
-      </div>
       <div>
         <a href="https://github.com/palenske/Trybe/blob/main/trybe-projects/2-front-end/trybewallet/src"><img
             src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
