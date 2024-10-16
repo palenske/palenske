@@ -2,7 +2,7 @@
   <h2>Desenvolvedor <em>Full-Stack</em></h2>
   <ul align="left">
     <li>🛠️ Atuo com NestJS e NextJS para soluções Web.</li>
-    <li>⚙️ Definições de projetos baseados em DDD e REST.</li>
+    <li>⚙️ Definições de projetos baseado em DDD e REST.</li>
     <li>☁️ Vercel | AWS | Docker. </li>
     <li>📫 Contato:
       <span>
