@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>👋 Oi! Meu nome é Vinicius Palenske e sou um desenvolvedor WEB <em>Full-Stack</em>.</h2>
+  <h2>Desenvolvedor <em>Full-Stack</em></h2>
   <ul align="left">
     <li>👀 Estou interessado em empresas/projetos que busquem impactar positivamente na sociedade</li>
     <li>🌱 Atualmente estou trabalhando com NextJS & NestJS.
