@@ -1,7 +1,7 @@
 # Vinicius Palenske
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vini--palenske-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vini-palenske/)
-[![Portfolio](https://img.shields.io/badge/Portfólio-palenske.vercel.app-black?style=flat&logo=vercel)](https://palenske.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/💼&nbsp;LinkedIn-vini--palenske-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vini-palenske/)
+[![Portfolio](https://img.shields.io/badge/🌐&nbsp;Portfólio-palenske.vercel.app-black?style=flat)](https://palenske.vercel.app)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-contato-25D366?style=flat&logo=whatsapp)](https://wa.me/+5541996040922)
 
 ---
