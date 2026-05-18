@@ -10,9 +10,7 @@
 
 Comecei escrevendo scripts para RPG Maker 2000 antes mesmo de saber que isso tinha nome. Em 2010 entrei no IFPR e aprendi a pensar em código de verdade — C++, Java, Assembly, circuitos combinacionais. Passei por um desvio pelo mundo das Ciências Sociais, voltei em 2020 com tudo para o desenvolvimento e não parei mais.
 
-Hoje trabalho como Engenheiro Full-Stack, construindo sistemas para fintechs, SaaS e plataformas digitais — do domínio ao deploy. Nos últimos anos mergulhei no ecossistema de IA: agentes autônomos, LLMs, automação de processos e arquiteturas que pensam. É o tipo de problema que me mantém acordado — no bom sentido.
-
-Me considero um nerd de rua. As raízes estão nos RPGs, em Star Wars e nos livros de fantasia e física quântica. As emoções estão na música, no skate, no surf e na amizade.
+Hoje trabalho como Engenheiro Full-Stack, construindo sistemas para fintechs, SaaS e plataformas digitais — do domínio ao deploy. Nos últimos anos mergulhei no ecossistema de IA: agentes autônomos, LLMs, automação de processos e arquiteturas que pensam. É o tipo de problema que me mantém acordado, no bom sentido.
 
 ---
 
