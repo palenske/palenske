@@ -12,7 +12,7 @@ Comecei escrevendo scripts para RPG Maker 2000 antes mesmo de saber que isso tin
 
 Hoje trabalho como Engenheiro Full-Stack construindo sistemas para fintechs, SaaS e plataformas digitais, do domínio ao deploy. Nos últimos anos mergulhei de cabeça no ecossistema de IA: agentes autônomos, LLMs, automação de processos e arquiteturas que tomam decisões. É exatamente o tipo de problema que me mantém acordado, no bom sentido.
 
-Atualmente estou aprofundando em Golang (GO), uma linguagem que me conquistou desde o primeiro contato pela performance, simplicidade e eficiência em concorrência. Tenho migrado projetos para ela progressivamente e os resultados são concretos: menos latência, menos recurso, menos gasto com servidor.
+Atualmente estou aprofundando o desenvolvimento em Golang (GO), uma linguagem que me conquistou desde o primeiro contato pela performance, simplicidade e eficiência em concorrência. Tenho migrado projetos para ela progressivamente e os resultados são concretos: menos latência, menos recurso, menos gasto com servidor.
 
 ---
 
