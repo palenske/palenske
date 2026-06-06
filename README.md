@@ -61,7 +61,7 @@ Atualmente estou aprofundando o desenvolvimento em Golang (GO), uma linguagem qu
 
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![Mastra AI](https://img.shields.io/badge/Mastra%20AI-291749?style=flat&logo=ai)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Trigger.dev](https://img.shields.io/badge/Trigger.dev-6366F1?style=flat)
 ![PiperclipAI](https://img.shields.io/badge/PiperclipAI-black?style=flat)
